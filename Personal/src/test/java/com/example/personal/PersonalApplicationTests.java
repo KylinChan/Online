@@ -1,4 +1,4 @@
-package com.example.Personal;
+package com.example.personal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
